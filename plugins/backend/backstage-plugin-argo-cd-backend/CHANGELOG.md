@@ -1,5 +1,11 @@
 # @roadiehq/backstage-plugin-argo-cd-backend
 
+## 2.3.0
+
+### Minor Changes
+
+- 3433829: bug fix: read label value being passed in instead of using app name
+
 ## 2.2.0
 
 ### Minor Changes
